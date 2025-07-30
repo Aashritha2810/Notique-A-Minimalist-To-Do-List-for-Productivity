@@ -11,6 +11,8 @@
 - Clean, minimal UI
 - All data stored in your browser using Local Storage
 
+##  Screenshots
+
 ##  Built With
 
 - HTML
@@ -34,6 +36,7 @@ notique/
 ##  Note
 
 This is a frontend-only project and does **not** require any backend or external dependencies.
+
 
 
 Made with love using just HTML, CSS, and JS
