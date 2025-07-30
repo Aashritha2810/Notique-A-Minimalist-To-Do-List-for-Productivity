@@ -20,9 +20,9 @@
 
 ##  Project Structure
 notique/
-├── index.html # Main HTML file
-├── style.css # Styling
-└── script.js # JavaScript logic
+- index.html # Main HTML file
+- style.css # Styling
+- script.js # JavaScript logic
 
 
 ##  How to Use
