@@ -12,6 +12,16 @@
 - All data stored in your browser using Local Storage
 
 ##  Screenshots
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/b6460e13-b262-4f11-9080-69f9fdf05fb9" />
+
+<img width="1918" height="871" alt="Screenshot 2025-07-31 093857" src="https://github.com/user-attachments/assets/5a55de5e-d993-4286-948b-55677093bc60" />
+
+<img width="1919" height="871" alt="Screenshot 2025-07-31 093907" src="https://github.com/user-attachments/assets/bc665ea6-7e03-4b4c-9bd3-936243fd14bc" />
+
+<img width="1919" height="865" alt="Screenshot 2025-07-31 093914" src="https://github.com/user-attachments/assets/2c90650c-fc49-4746-9437-02ac623eab4b" />
+
+
+
 
 ##  Built With
 
