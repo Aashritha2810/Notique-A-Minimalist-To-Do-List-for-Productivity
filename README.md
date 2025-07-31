@@ -35,7 +35,7 @@ COMPLETED TASKS
 notique/
 - index.html # Main HTML file
 - style.css # Styling
-- script.js # JavaScript logic
+- APP.js # JavaScript logic
 
 
 ##  How to Use
@@ -43,6 +43,7 @@ notique/
 1. Clone or download this repository
 2. Open `index.html` in any web browser
 3. Start adding your notes!
+4. Do the same with the CSS and JAVASCRIPT file
 
 ##  Note
 
