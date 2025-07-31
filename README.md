@@ -12,16 +12,17 @@
 - All data stored in your browser using Local Storage
 
 ##  Screenshots
-<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/b6460e13-b262-4f11-9080-69f9fdf05fb9" />
+MAIN PAGE
+<img width="1915" height="863" alt="Screenshot 2025-07-31 093831" src="https://github.com/user-attachments/assets/f86c6d2f-7c21-4b20-9438-16350935f8c5" />
 
-<img width="1918" height="871" alt="Screenshot 2025-07-31 093857" src="https://github.com/user-attachments/assets/5a55de5e-d993-4286-948b-55677093bc60" />
+ADDING TASKS
+<img width="1918" height="871" alt="Screenshot 2025-07-31 093857" src="https://github.com/user-attachments/assets/e02dfe75-e4f1-4de9-94c4-60ae20df8b3d" />
 
-<img width="1919" height="871" alt="Screenshot 2025-07-31 093907" src="https://github.com/user-attachments/assets/bc665ea6-7e03-4b4c-9bd3-936243fd14bc" />
+PENDING TASKS
+<img width="1919" height="871" alt="Screenshot 2025-07-31 093907" src="https://github.com/user-attachments/assets/c5beef5d-600e-4181-98e6-ae9c1a948c38" />
 
-<img width="1919" height="865" alt="Screenshot 2025-07-31 093914" src="https://github.com/user-attachments/assets/2c90650c-fc49-4746-9437-02ac623eab4b" />
-
-
-
+COMPLETED TASKS
+<img width="1919" height="865" alt="Screenshot 2025-07-31 093914" src="https://github.com/user-attachments/assets/06d854a3-dfc5-46db-9608-2ac04c48b478" />
 
 ##  Built With
 
